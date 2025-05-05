@@ -2,7 +2,8 @@
 
 A simple, beginner-friendly task manager web app built with Python and Flask.  
 Track your tasks, add and delete items — all in a clean, dark-themed interface.
-![image](https://github.com/user-attachments/assets/4fbeed2d-6a89-4ed2-a546-b5db7a330681)
+![image](https://github.com/user-attachments/assets/1d1d754d-5bcb-4559-905b-10cbe9cd750c)
+
 
 
 ---
