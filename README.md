@@ -68,7 +68,7 @@ flask-task-list-app/
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing :)
 
 Pull requests are welcome!  
 Feel free to fork the repo and enhance the UI, add new features, or integrate a database.
