@@ -1,8 +1,10 @@
 services:
   flask-app:
-    build: .    # Uses the Dockerfile in the current directory
+    image: zitendra/task-list-app:latest    # Uses the Dockerfile in the current directory
+    
     ports:
       - "5000:5000"
 
 #docker-compose up --build
+#build: .    # Uses the Dockerfile in the current directory
 #image: zitendra/task-list-app:latest    # Uses the Dockerfile in the current directory
